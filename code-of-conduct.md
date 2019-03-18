@@ -9,7 +9,7 @@ This document aims to make Meenachil Hacks a place for everyone to feel welcome.
 #### Be considerate
 Any decision you take will affect other members and colleagues, and you should take those consequences into account when making decisions. Try to make decisions that are as inclusive as possible.
 #### Be respectful
-Not all of us will agree all the time, but disagreement is no excuse for poor behavior and poor manners. We might all experience some frustration now and then, but we cannot allow that frustration to turn into a personal attack. It's important to remember that a community where people feel uncomfortable or threatened is not a productive one. We expect members of the CEK Open Source Club to be respectful when communicating with other community members, as well as with people outside the Community.
+Not all of us will agree all the time, but disagreement is no excuse for poor behavior and poor manners. We might all experience some frustration now and then, but we cannot allow that frustration to turn into a personal attack. It's important to remember that a community where people feel uncomfortable or threatened is not a productive one. We expect members/participants of the event to be respectful when communicating with other community members, as well as with people outside the Community.
 #### Be Collaborative
 What we produce is a complex whole made of many parts, it is the sum of many dreams. Collaboration between teams that each have their own goal and vision is essential; for the whole to be more than the sum of its parts, each part must make an effort to understand the whole.  
 
@@ -38,23 +38,25 @@ We expect participants to follow these rules at our all of our event venues and 
 #### Communicate effectively
 Clear communication can help to avoid misunderstandings, Having context is important. It's better to ask for clarification than to make assumptions. Disagreements, social and technical, are normal, but we expect members in the community to resolve disagreements constructively — so please avoid flamewars, trolling, personal attacks, and repetitive arguments.
 #### Unaffilated Promotions
-Any promotions which are not directly affiliated to the community should be completely avoided, if found continuing even after asked to stop may result in removal from the event/community. All the members/organizers/sponsors/participants shall ask permission with  concerned people mentioned at the end of the document to carry-out any promotions within the community discussion rooms or events.
+Any promotions which are not directly affiliated to the event should be completely avoided, if found continuing even after asked to stop may result in removal from the event/community. All the members/organizers/sponsors/participants shall ask permission with  concerned people mentioned at the end of the document to carry-out any promotions within the community discussion rooms or events.
 #### When we disagree, try to understand why.
-Disagreements, both social and technical, happen all the time and the CEK Open Source Community is no exception. It is important that we resolve disagreements and differing views constructively. Remember that we’re different. The strength of the CEK Open Source community comes from its varied community, people from a wide range of backgrounds. Different people have different perspectives on issues. Being unable to understand why someone holds a viewpoint doesn’t mean that they’re wrong. Focus on helping to resolve issues and learning from mistakes. It is important that we resolve disagreements and differing views constructively and with the help of the community and community processes.When our goals differ dramatically, we encourage the creation of alternative implementations, so that the community can test new ideas and contribute to the discussion.
+Disagreements, both social and technical, happen all the time and the Meenachil Hacks is no exception. It is important that we resolve disagreements and differing views constructively. Remember that we’re different. The strength of the event comes from its varied community, people from a wide range of backgrounds. Different people have different perspectives on issues. Being unable to understand why someone holds a viewpoint doesn’t mean that they’re wrong. Focus on helping to resolve issues and learning from mistakes. It is important that we resolve disagreements and differing views constructively and with the help of the community and community processes.When our goals differ dramatically, we encourage the creation of alternative implementations, so that the community can test new ideas and contribute to the discussion.
 #### Go by This
-If any member is unwilling to abide by this Code of Conduct or breaks it, he/she shall be removed from their current activity and will be given a **final chance** for the next activity to improve.If there seems no improvment the person will be removed from the whole community and will not be allowed to participate or contribute to any furthur activity whatever his designation be.
+If any member is unwilling to abide by this Code of Conduct or breaks it, he/she shall be removed from their current activity and will be given a **final chance** .If there seems no improvment the person will be removed from the whole event and will not be allowed to participate or contribute to any furthur activity whatever his designation be.
 ## Contact us
 If you believe that the  Code of Conduct is being violated, you are being harassed, or have any other concerns, please contact a member of the community via email Provided Below, or directly reaching out.
-You can contact us directly with this email __cekctf1@gmail.com__ or
+You can contact us directly with this email __ cekctf1@gmail.com __ or
 - Anish A Aziz - _Faculty Coordinator_  
-__anish@ce-kgr.org__
+__ anish@ce-kgr.org __
+- SooryaNarayanan B - *Program Organizer and Lead*
+__ mesooryanarayananb@gmail.com __
 - Gokuldas K M - _Student Program Coordinator_  
-__gokuldas027@gmail.com__  
+__ gokuldas027@gmail.com __  
 - Athul Cyriac Ajay- _Organizing Committee_   
-__athul8720@gmail.com__
+__ athul8720@gmail.com __
 
  - Please be prepared to provide as much of the following information as possible about the alleged violation:
-    - Identifying/contact information of the person you believe is violating the CEK Open Source Community Code of Conduct
+    - Identifying/contact information of the person you believe is violating the Code of Conduct
     - Contact information of the complainant or the person who was the target of the violation
     - The behavior that was in violation, approximate time and circumstances
     - Other people involved in the incident Whether or not you would prefer to have your complaint be kept anonymous in the situation
